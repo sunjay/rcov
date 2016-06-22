@@ -36,7 +36,7 @@ Standard `cargo` commands apply.
 Use this to run the example:
 
 ```
-cargo run --example example
+cargo run --example sample
 ```
 
 Use this to run the tests and the examples too

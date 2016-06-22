@@ -10,3 +10,7 @@ name = "rcov"
 path = "src/lib.rs"
 plugin = true
 
+[[example]]
+name = "sample"
+path = "examples/sample/main.rs"
+
